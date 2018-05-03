@@ -1,0 +1,5 @@
+site_name: My CCNP Workbook
+pages:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
