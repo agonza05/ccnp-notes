@@ -3,7 +3,8 @@ pages:
     - Home: 'index.md'
     - Exam Topics: 'exam-topics.md'
     - 1. Layer 2 Technologies:
-        - 1.1 Configure and verify switch administration: 'layer-2-technologies/switch-administration.md'
+        - 1.1 Configure and verify switch administration:
+            - 1.1.1 SDM templates: 'layer-2-technologies/switch-administration/sdm-templates.md'
         - 1.2 Configure and verify Layer 2 protocols: 'layer-2-technologies/layer-2-protocols.md'
         - 1.3 Configure and verify VLANs: 'layer-2-technologies/vlans.md'
         - 1.4 Configure and verify trunking: 'layer-2-technologies/trunking.md'
@@ -11,5 +12,8 @@ pages:
         - 1.6 Configure and verify spanning tree: 'layer-2-technologies/spanning-tree.md'
         - 1.7 Configure and verify other LAN switching technologies: 'layer-2-technologies/other-technologies.md'
         - 1.8 Describe chassis virtualization and aggregation technologies: 'layer-2-technologies/chassis-virtualization.md'
+    - Glossary:
+        - TCAM: 'glossary/tcam.md'
     - About: 'about.md'
-theme: readthedocs
+theme:
+  name: 'material'

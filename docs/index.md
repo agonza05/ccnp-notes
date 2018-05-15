@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+Welcome to My CCNP Notes
+========================
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+This website was founded with the goal of practicing for the Cisco CCNP Exams. All labs are designed to be completed using the GNS3 platform.
 
-## Commands
+Exam Topics
+--------
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+Please visit the [Exam Topics](exam-topics.md) for more info
 
-## Project layout
+Structure
+---------
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* Core Knowledge
+* Lab Objectives
+* Lab Instructions
+
+Credits
+-------
+
+Many labs have been taken from [freeccnaworkbook.com](https://www.freeccnaworkbook.com)
